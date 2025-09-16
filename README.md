@@ -2,6 +2,20 @@ NeuroNote - Student Second Brain
 
 NeuroNote is an AI-powered study assistant designed to be your "second brain" for academic success. It helps students organize study materials, generate summaries, create flashcards, and build quizzes automatically using AI processing.
 
+
+
+
+
+https://github.com/Aqibkhan037/NeuroNote-React-and-django-Application/blob/main/NeuroNote_Dashboard.jpg
+https://github.com/Aqibkhan037/NeuroNote-React-and-django-Application/blob/main/NeuroNote_FlashCards.jpg
+https://github.com/Aqibkhan037/NeuroNote-React-and-django-Application/blob/main/NeuroNote_My_Notes.jpg
+https://github.com/Aqibkhan037/NeuroNote-React-and-django-Application/blob/main/NeuroNote_Summaries.jpg
+https://github.com/Aqibkhan037/NeuroNote-React-and-django-Application/blob/main/NeuroNote_Upload_Notes.jpg
+
+
+
+
+
 _________________________________________________________________________________________________________________________________________________________________
 ✨ Features
 Note Management: Upload and organize study materials (PDF, DOCX, TXT)
